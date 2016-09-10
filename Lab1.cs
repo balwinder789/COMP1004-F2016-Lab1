@@ -35,7 +35,7 @@ namespace COMP1004_F2016_Lab1
 
         private void button2_MouseLeave(object sender, EventArgs e)
         {
-            MessageBox.Show("good bye!");
+            MessageBox.Show("good byee!");  
         }
     }
 }
